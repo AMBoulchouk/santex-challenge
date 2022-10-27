@@ -58,7 +58,8 @@ and what considerations should be included in a professional level application.
 Don’t forget to add a README and any other documentation you think is necessary (train of
 thought, troubleshooting).
 
-### Use for table example
+
+<!-- ### Use for table example
 
 | example | title |
 | ------ | ------ |
@@ -72,7 +73,7 @@ thought, troubleshooting).
 code here
 and here
 ```
-
+-->
 ## License
 
 MIT
